@@ -12,6 +12,7 @@ export default {
 	input: 'src/main.js',
 	output: {
 		sourcemap: true,
+		basepath: '/name-of-your-repo/',
 		format: 'iife',
 		name: 'app',
 		file: 'public/build/bundle.js'
