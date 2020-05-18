@@ -1,7 +1,9 @@
 @import "@material/theme/color-palette";
 @import "@material/typography/mdc-typography";
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
 $mdc-theme-primary : transparent;
-$mdc-theme-secondary : #117FF2;
+$mdc-theme-secondary : #FBDB04;
 $mdc-theme-background : $material-color-grey-900;
 $mdc-theme-surface : $material-color-grey-100;
 $mdc-theme-error : $material-color-red-900;

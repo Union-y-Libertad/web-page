@@ -14,8 +14,6 @@
 </TopAppBar>
 <div use:Adjust>
   <Home></Home>
-  <Referentes></Referentes>
-  <MyFooter></MyFooter>
 </div>
 
 <script>
@@ -25,16 +23,7 @@
 
   import TopAppBar, {Row, Section, Title, FixedAdjust, DenseFixedAdjust, ProminentFixedAdjust, ShortFixedAdjust} from '@smui/top-app-bar';
   import IconButton from '@smui/icon-button';
-  import Checkbox from '@smui/checkbox';
-  import FormField from '@smui/form-field';
-  import LinearProgress from './components/linear-progress.svelte';
-  import Referentes from './components/referentes.svelte';
-  import MyFooter from './components/footer.svelte';
   import Home from './components/home.svelte';
 
   let Adjust = ProminentFixedAdjust;
 </script>
-
-<style>
-
-</style>
