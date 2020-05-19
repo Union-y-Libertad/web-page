@@ -18,17 +18,14 @@
   }
 </script>
 
-<section id="referentes" gutter="12">
-
-<h1>Referentes</h1>
+<section class="container" id="referentes" gutter="12">
+  <h1>Referentes</h1>
   <div>
     <h2>Tipito enojado</h2>
-    <img src="https://yt3.ggpht.com/a/AATXAJx-k8hO9-6NQJB3qQw9KIB0Kn5hEtfhmuF6mA=s100-c-k-c0xffffffff-no-rj-mo" alt="tipito-logo"/>
-    <p>
-      Contenido del parrafo/ descripcion
-    </p>
-    <p>
-      Segundo parrafo de la descripcion.
-    </p>
+    <img
+      src="https://yt3.ggpht.com/a/AATXAJx-k8hO9-6NQJB3qQw9KIB0Kn5hEtfhmuF6mA=s100-c-k-c0xffffffff-no-rj-mo"
+      alt="tipito-logo" />
+    <p>Contenido del parrafo/ descripcion</p>
+    <p>Segundo parrafo de la descripcion.</p>
   </div>
 </section>

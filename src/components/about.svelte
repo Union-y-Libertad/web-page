@@ -1,4 +1,4 @@
-<section id="about">
+<section class="container" id="about">
     <h1>
         Sobre nosotros
     </h1>
